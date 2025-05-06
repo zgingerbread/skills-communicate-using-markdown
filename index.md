@@ -6,3 +6,6 @@
 # <h6> Child 🧒
 
 Testing and Learning Markdown Headers. 🔮
+
+# <h1> Adding Image
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png~)
