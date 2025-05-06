@@ -26,3 +26,8 @@ var myVar = "Hello,world!";
 ``` C
 write(1, &c, 1); 
 ```
+
+# <h1> Making list of things to do?? TASK LIST 🗒️
+- [ ] Add task list❗❗ 🤯
+- [ ] Does it work?!? 😢
+- [ ] Yay!! IT works. 😅
